@@ -1,4 +1,6 @@
-# Reset JetBrains webStorm & intellij Trial
+# Reset JetBrains Trial
+
+("WebStorm", "IntelliJ", "CLion", "Rider", "GoLand", "PhpStorm", "Resharper", "PyCharm")
 
 Instrucciones:
 
