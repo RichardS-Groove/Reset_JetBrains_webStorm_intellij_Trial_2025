@@ -1,4 +1,4 @@
-# Reset Webstorm Trial 2025
+# Reset JetBrains webStorm & intellij Trial
 
 Instrucciones:
 
